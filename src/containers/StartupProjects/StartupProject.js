@@ -19,7 +19,7 @@ export default function StartupProject() {
               return (
                 <div
                   className="saaya-health-div"
-                  // onClick={() => openProjectInNewWindow(project.link)}
+                  onClick={() => openProjectInNewWindow(project.link)}
                 >
                   <img alt="Saad Working" src={project.image}></img>
                 </div>
