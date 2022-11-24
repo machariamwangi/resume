@@ -63,8 +63,8 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Building applications (Backend ) using .NET CORE, C#, ASP.NET,OData, ADO.NET",
-        "⚡ Performed Unit Testing and Integration Testing using XUnit, NUnit and Serenium",
-        "⚡ Developing  and maintaining  documentation related to software processes and systems, including requirements and design documentation on Jira.",
+        "⚡ Writing  Unit Tests and Integration Tests using XUnit, NUnit and Serenium",
+        "⚡ Developing  and maintaining  documentation related to software processes and systems,     including requirements and design documentation on Jira.",
       ],
       softwareSkills: [
         {
@@ -258,7 +258,8 @@ const skills = {
 const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
-  description: "I have worked with many evolving startups as  Developer",
+  description:
+    "I have worked with many evolving startups and developed companie as a Developer",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -272,7 +273,7 @@ const experience = {
           duration: "June 2021 - PRESENT",
           location: "Goslar, Germany",
           description:
-            "I am working as .NET Developer on Fire protection solutions. The projects involve Developing Applications and website that server as fire mitigation tool to business in Germany  and over-seas. I am currently working on Machine Learning (ML.NET) application, Final stage. Our goal is to analyse data, run machine learning pipelines to detect incidents of fire and smoke before the happen ",
+            "I am working as .NET Developer on Fire protection solutions. The projects involves developing Applications and website that serve as fire mitigation tool to business in Germany  and over-seas. I am currently working on Machine Learning (ML.NET) application, Final stage. Our goal is to analyse data, run machine learning pipelines to detect incidents of fire and smoke before they happen ",
           color: "#0879bf",
         },
         {
@@ -294,7 +295,7 @@ const experience = {
           duration: "October 2020 - January 2021",
           location: "Nairobi, Kenya",
           description:
-            "I worked  as a React Frontend Developer on payment systems, Management systems, Card based systems and systems integrations. I actively participated the Nairobi(Capital City of Kenya) Revenue collection System. This was a 4 mmonths contract where we finished the project , deployed and  its still on Operations. We also worked on the new Jambopay Portal that included all payments plans for the Company ",
+            "I worked  as a React Frontend Developer on payment systems, Management systems, Card based systems and systems integrations. I actively participated the Nairobi(Capital City of Kenya) Revenue collection System. This was a 4 mmonths contract where we finished the project , deployed and  it's still on Operation. We also worked on the new Jambopay Portal that included all payments plans for the Company ",
           color: "#0879bf",
         },
         {
@@ -305,7 +306,7 @@ const experience = {
           duration: "October 2019 - October 2020",
           location: "Nairobi, kenya",
           description:
-            "I Worked  as  Frontend web development on Financial and Banking products. The projects involved Developing Applications and website that server as payment tool to business in kenya,Africa and over-seas. I am  workied  on Core Banking application, Bonfire Adventure Holiday application, Internet Banking , Waterfall, Alpha Hr Management system, Mifos Core banking. Final stage. Our goal was to make payment systems, streaming services and advertisement systems",
+            "I Worked  as  Frontend web development on Financial and Banking products. The projects involved Developing Applications and website that serve as payment tool to business in kenya,Africa and over-seas. I worked  on Core Banking application, Bonfire Adventure Holiday application, Internet Banking , Waterfall, Alpha Hr Management system, Mifos Core banking. Final stage. Our goal was to make payment systems, streaming services and advertisement systems",
           color: "#0879bf",
         },
         {
@@ -332,7 +333,7 @@ const experience = {
           duration: "April 2019 - June 2019",
           location: "Rongai, Kenya",
           description:
-            "I have worked on Company websites, design Magazines for the company and Recording Keep for the financial activities of the company",
+            "I worked on Company websites, design Magazines for the company and Recording Keeping system for the financial activities of the company",
           color: "#ee3c26",
         },
       ],
@@ -371,7 +372,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Backend solutions/Applications,  Frontend Web Developers projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to Develope Backend solutions/Applications,  Frontend-end UIs  and deploy them as web applications using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
